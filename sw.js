@@ -1,6 +1,6 @@
 // Keeps the page and its images in the browser cache so reloads draw instantly.
 // Bump CACHE whenever the page or any image changes, so visitors get the new files.
-const CACHE = "nightcat-v1";
+const CACHE = "nightcat-v2";
 const PRECACHE = [
   "./",
   "./index.html",
